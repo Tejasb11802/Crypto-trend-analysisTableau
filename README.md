@@ -23,11 +23,6 @@ The dashboard includes the following components:
 2. Use the filters in the dashboard to explore how Bitcoin pricing and sentiment changed over time.
 3. Modify or build on the dashboard for your own use.
 
-## Optional Online Version
-
-If published, you can also view this dashboard on Tableau Public:
-(Link to be added)
-
 ## Author
 
 Tejas Prashant Bhanushali  
