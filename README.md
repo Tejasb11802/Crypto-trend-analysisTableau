@@ -27,3 +27,7 @@ The dashboard includes the following components:
 
 Tejas Prashant Bhanushali  
 Focused on creating clear, interactive dashboards for data storytelling.
+
+
+
+![Tableau](https://img.shields.io/badge/Tool-Tableau-blue?logo=tableau)
